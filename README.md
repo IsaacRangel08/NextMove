@@ -60,7 +60,8 @@ Esta normativa regula el etiquetado de productos electrónicos, incluidos los di
 Norma que establece lineamientos para la evaluación de la publicidad gubernamental en medios electrónicos, lo cual también puede aplicarse a campañas realizadas a través de aplicaciones móviles por entidades públicas.
 
 #### LICENCIAS
-
+ Las licencias aplicadas
+ 
 ### VIABILIDAD DEL MERCADO
 
 ##### ¿Existe demanda real?
