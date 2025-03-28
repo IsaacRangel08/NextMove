@@ -42,14 +42,7 @@ Sí, se puede llevar a cabo mediante un comunicador que trae instalado el camió
 
 ¿Se tiene el personal y las capacidades técnicas necesarias?
 Sí, se demuestra con la creación de la aplicación “YoVoy: StopBus” que se tiene el personal y las capacidades técnicas para crear una aplicación de esta magnitud y actualizarla.
-
-### VIABILIDAD FINANCIERA
-
-¿Los costos son menores que los beneficios esperados?
-
-
-Análisis de punto de equilibrio TIR, VAN, Payback, etc
-Presupuesto 
+ 
 
 ### VIABILIDAD LEGAL
 Cumple con las leyes, normativas, licencias y permisos.
